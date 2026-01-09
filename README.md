@@ -1,2 +1,0 @@
-# SecureDev
-Microsoft imagine cup
